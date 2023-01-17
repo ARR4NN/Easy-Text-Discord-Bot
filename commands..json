@@ -1,0 +1,17 @@
+[
+    {
+        "name": "command1",
+        "description": "Command description",
+        "response": "Hey you wanted me? number 1?"
+    },
+    {
+        "name": "command2",
+        "description": "Command description",
+        "response": "Yo im command 2."
+    },
+    {
+        "name": "command3",
+        "description": "Command description",
+        "response": "Im lazy number 3."
+    }
+]
